@@ -1,0 +1,369 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Footer renders Correctly 1`] = `
+<div
+  class="footer_container"
+>
+  <footer
+    class="footer"
+  >
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-sm-3"
+        >
+          <h4
+            class="title"
+          >
+            PAYSMOSMO
+          </h4>
+           
+          <p
+            class="footer_subtitle"
+          >
+            Help give out inventory Loans to cooperative members with ease
+          </p>
+        </div>
+         
+        <div
+          class="col-sm-2"
+        >
+          <h4
+            class="title2"
+          >
+            Contact
+          </h4>
+           
+          <p>
+            <a
+              href="#"
+            >
+               Registration
+            </a>
+          </p>
+           
+          <p>
+            <a
+              href="#"
+            >
+               About Us
+            </a>
+          </p>
+           
+          <p>
+            <a
+              href="#"
+            >
+               Contact Us
+            </a>
+          </p>
+        </div>
+         
+        <div
+          class="col-sm-2"
+        >
+          <h4
+            class="title2"
+          >
+            Contact
+          </h4>
+           
+          <p>
+            <a
+              href="#"
+            >
+               Registration
+            </a>
+          </p>
+           
+          <p>
+            <a
+              href="#"
+            >
+               About Us
+            </a>
+          </p>
+           
+          <p>
+            <a
+              href="#"
+            >
+               Contact Us
+            </a>
+          </p>
+        </div>
+         
+        <div
+          class="col-sm-3"
+        >
+          <h4
+            class="title2"
+          >
+            Stay Connected
+          </h4>
+           
+          <font-awesome-layers
+            class="fa-2x"
+            full-width=""
+          >
+            <font-awesome-icon
+              icon="[object Object]"
+              pull="left"
+            />
+             
+            <font-awesome-layers-text
+              transform="down-2 shrink-8"
+              value="7"
+            />
+          </font-awesome-layers>
+           
+          <font-awesome-layers
+            class="fa-2x"
+            full-width=""
+          >
+            <font-awesome-icon
+              icon="[object Object]"
+              pull="left"
+            />
+             
+            <font-awesome-layers-text
+              transform="down-2 shrink-9"
+              value="9"
+            />
+          </font-awesome-layers>
+           
+          <font-awesome-layers
+            class="fa-2x"
+            full-width=""
+          >
+            <font-awesome-icon
+              icon="[object Object]"
+              pull="left"
+            />
+             
+            <font-awesome-layers-text
+              transform="down-2 shrink-8"
+              value="5"
+            />
+          </font-awesome-layers>
+        </div>
+         
+        <div
+          class="col-sm-2"
+        >
+          <h4
+            class="title2"
+          >
+            Back to top ^
+          </h4>
+        </div>
+      </div>
+    </div>
+  </footer>
+   
+  <div
+    class="text-center footer_down"
+  >
+    <p
+      class="footer_at"
+    >
+      <a
+        href=""
+      >
+         © 2018 PAYSMOSMO 
+      </a>
+    </p>
+  </div>
+</div>
+`;
+
+exports[`HeaderSlider renders Correctly 1`] = `
+<b-container
+  fluid=""
+>
+  <b-row>
+    <div
+      class="col-lg-3 col-md-3 col-sm-12"
+    >
+      <b-list-group>
+        <b-list-group-item
+          class="category_card bg-success"
+        >
+           CATEGORIES 
+        </b-list-group-item>
+         
+      </b-list-group>
+    </div>
+     
+    <div
+      class="col-lg-9 col-md-9 col-sm-12"
+    >
+      <div>
+        <b-carousel
+          background="#ababab"
+          id="carousel1"
+          img-height="638"
+          img-width="1024"
+          indicators=""
+          interval="4000"
+          style="text-shadow: 1px 1px 2px #333;"
+        >
+          <b-carousel-slide
+            img-src="https://picsum.photos/1024/638/?image=370"
+          >
+            <div
+              class="slide_text"
+            >
+              <h1
+                class="slide_main_text"
+              >
+                NEW COLLECTION
+              </h1>
+               
+              <p>
+                It is a long established fact that a reader will be distracted by the readable 
+                <br />
+                
+                                content of a page when looking at its layout
+                                
+              </p>
+               
+              <button
+                class="btn btn-outline-warning fa-pull-left"
+              >
+                 SHOP NOW
+              </button>
+            </div>
+          </b-carousel-slide>
+           
+          <b-carousel-slide
+            img-src="https://picsum.photos/1024/638/?image=370"
+          >
+            <div
+              class="slide_text"
+            >
+              <h1
+                class="slide_main_text"
+              >
+                NEW COLLECTION
+              </h1>
+               
+              <p>
+                It is a long established fact that a reader will be distracted by the readable 
+                <br />
+                
+                                    content of a page when looking at its layout
+                                
+              </p>
+               
+              <button
+                class="btn btn-outline-warning fa-pull-left"
+              >
+                 SHOP NOW
+              </button>
+            </div>
+          </b-carousel-slide>
+           
+          <b-carousel-slide
+            img-src="https://picsum.photos/1024/638/?image=370"
+          >
+            <div
+              class="slide_text"
+            >
+              <h1
+                class="slide_main_text"
+              >
+                NEW COLLECTION
+              </h1>
+               
+              <p>
+                It is a long established fact that a reader will be distracted by the readable 
+                <br />
+                
+                                    content of a page when looking at its layout
+                                
+              </p>
+               
+              <button
+                class="btn btn-outline-warning fa-pull-left"
+              >
+                 SHOP NOW
+              </button>
+            </div>
+          </b-carousel-slide>
+           
+          <b-carousel-slide
+            img-src="https://picsum.photos/1024/638/?image=370"
+          >
+            <div
+              class="slide_text"
+            >
+              <h1
+                class="slide_main_text"
+              >
+                NEW COLLECTION
+              </h1>
+               
+              <p>
+                It is a long established fact that a reader will be distracted by the readable 
+                <br />
+                
+                                    content of a page when looking at its layout
+                                
+              </p>
+               
+              <button
+                class="btn btn-outline-warning fa-pull-left"
+              >
+                 SHOP NOW
+              </button>
+            </div>
+          </b-carousel-slide>
+           
+          <b-carousel-slide
+            img-src="https://picsum.photos/1024/638/?image=370"
+          >
+            <div
+              class="slide_text"
+            >
+              <h1
+                class="slide_main_text"
+              >
+                NEW COLLECTION
+              </h1>
+               
+              <p>
+                It is a long established fact that a reader will be distracted by the readable 
+                <br />
+                
+                                    content of a page when looking at its layout
+                                
+              </p>
+               
+              <button
+                class="btn btn-outline-warning fa-pull-left"
+              >
+                 SHOP NOW
+              </button>
+            </div>
+          </b-carousel-slide>
+        </b-carousel>
+      </div>
+    </div>
+  </b-row>
+</b-container>
+`;
+
+exports[`ProductList ProductList renders Correctly 1`] = `
+<div
+  class="top_explore"
+>
+  <div>
+    <b-card-group />
+  </div>
+</div>
+`;
